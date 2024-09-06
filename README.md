@@ -7,7 +7,7 @@
 
 ## Objective:
 
-The purpose of this repository is to use Sportmonks.com API to explore and experiment with differente football data. 
+The purpose of this repository is to use Sportmonks.com API to explore and experiment with different football data. 
 Feel free to copy any code snippet you need :)
 
 ## Notebooks:
