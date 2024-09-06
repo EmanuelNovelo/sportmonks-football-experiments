@@ -1,13 +1,19 @@
-# sportmonks-football-experiments
+# SportMonks Football API experiments
 
-## Objective
+## Basic set-up to use the API
+1. Access https://my.sportmonks.com/
+2. Create an account
+3. Create an API Token
 
-The purpose of this repository is to include code and snippets using the Sportmonks.com API to analyze and experiment with differente football data. 
+## Objective:
+
+The purpose of this repository is to use Sportmonks.com API to explore and experiment with differente football data. 
+Feel free to copy any code snippet you need :)
 
 ## Notebooks:
-- Pre and post-match highlights: All information and highlights regarding football matches!
+- [First requests Notebook](./Notebooks/First-requests.ipynb): I performed basic requests to extract data from leagues, fixtures and more :) feel free to use the snippets!
 
 ## Projects:
+- WIP
 
-
-PS. All credit to the Sportmonks.com team!
+PS. All credit to the [Sportmonks](https://my.sportmonks.com/) team!
